@@ -9,6 +9,7 @@ This script will create privacy cards for you and export them to a file to make 
 - Open the config file and set your privacy login along with a 2 Captcha Key and other random settings you would like.
 - Open cmd.
 - Use CD to navigate to the the location you installed the folder.
+- Type "npm install" and wait for all the dependencies to download.
 - Run the script by typing "node index.js".
 - Enjoy!
 
