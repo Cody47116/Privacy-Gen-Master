@@ -13,6 +13,7 @@ This script will create privacy cards for you and export them to a file to make 
 - Enjoy!
 
 
-
+### Notes
+- When setting a limit on the cards do not include the $ sign.
 
 [[Twitter]](https://www.twitter.com/cody_ncc)
