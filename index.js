@@ -3,6 +3,10 @@ const log     = require('./tools/logger')
 const request = require('request')
 const fs      = require('fs')
 
+log('---------------------------')
+log("-----Made by @Cody_Ncc-----")
+log('---------------------------')
+log('')
 
 function main() {
     let config = JSON.parse(fs.readFileSync('config.json', 'utf-8'))
