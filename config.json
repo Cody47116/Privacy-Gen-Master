@@ -1,8 +1,8 @@
 {
 "capKey":"",
-"email":"@.com",
+"email":"",
 "password":"",
 "amount":"0",
-"limit":"",
+"limit":"300",
 "cardName": "Shopify"
 }
