@@ -1,8 +1,17 @@
 {
+"firstName":"",
+"lastName":"",
+"state":"AL",
+"apt":"",
+"country":"US",
+"address":"",
+"zip":"",
+"phone":"",
+"city":"",
 "capKey":"",
 "email":"",
 "password":"",
 "amount":"0",
-"limit":"300",
+"limit":"",
 "cardName": "Shopify"
 }
