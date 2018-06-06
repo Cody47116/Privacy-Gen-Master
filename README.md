@@ -18,4 +18,7 @@ This script will create privacy cards for you and export them to Ghost profiles.
 - When setting a limit on the cards do not include the $ sign.
 - For config Country and State abbriviate with 2 letters ex.(EU, US, CA).
 
+
+### To-Do
+- Add Dashe profile export support.
 [[Twitter]](https://www.twitter.com/cody_ncc)
