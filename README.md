@@ -1,6 +1,6 @@
 # Privacy Card Generator
 
-This script will create privacy cards for you and export them to a file to make them easier to read and copy & pasta.
+This script will create privacy cards for you and export them to Ghost profiles.
 
 
 ### Installation
@@ -16,5 +16,6 @@ This script will create privacy cards for you and export them to a file to make 
 
 ### Notes
 - When setting a limit on the cards do not include the $ sign.
+- For config Country and State abbriviate with 2 letters ex.(EU, US, CA).
 
 [[Twitter]](https://www.twitter.com/cody_ncc)
