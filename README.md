@@ -6,10 +6,10 @@ This script will create privacy cards for you and export them to Ghost profiles.
 ### Installation
 - Make sure the latest version of Node.js is installed.
 - Download the folder.
-- Open the config file and set your privacy login along with a 2 Captcha Key and other random settings you would like.
 - Open cmd.
 - Use CD to navigate to the the location you installed the folder.
 - Type "npm install" and wait for all the dependencies to download.
+- Open the config file and set your privacy login along with all the othere necessary settings.
 - Run the script by typing "node index.js".
 - Enjoy!
 
