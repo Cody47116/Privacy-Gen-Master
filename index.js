@@ -118,6 +118,8 @@ function main() {
                         if (res !== undefined && res.statusCode == 200)
                             log(`Finished creating card ${config.cardName} ${i}`, 'success')
                         i++
+                        if (i < parseInt(config.amount))
+                            setTimeout(create, 500)
                     })
                 }
             }
